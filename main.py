@@ -1,23 +1,27 @@
 # Date is automatically set up
 from datetime import date
+import semimonthly_schedule
 
 def calculator_401k():
     today = date.today()
+    current_day = today.today().day
+    current_week = today.isocalendar()[1]
+    current_month = today.month
 
     monthly = 12
     semimonthly = 24
     biweekly = 26
     weekly = 52
 
-    current_month = today.month
-    current_week = today.isocalendar()[1]
-    # current_biweekly_period = 
-    # current_semimonthly_period = 
+    # current_biweekly_period = ??
+    semimonthly_period = semimonthly_schedule.paycheck(current_month, current_day)
+
 
     remaining_months = monthly - current_month
     remaining_weeks = weekly - current_week
     remaining_biweekly_period = biweekly - 4
-#     semimonthly_period = semimonthly - 4
+    remaining_semimonthly_period = semimonthly - semimonthly_period
+
 
     def progress(frequency, goal, contribution):
         if frequency == "monthly":
