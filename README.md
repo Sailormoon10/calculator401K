@@ -2,7 +2,7 @@
 
 This Python script provides a simple 401k calculator to help users determine how much they need to save to reach their retirement goal by the end of the year. It takes into account the user's pay schedule and current contributions to provide personalized savings recommendations.
 
-## Output example for a Monthly pay period
+## Output example using monthly pay periods
 <img width="1440" alt="output 401" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/5167643e-3af5-4484-8fea-c6f65aebb44f">
 
 
@@ -56,6 +56,9 @@ You need to save $3000.00 monthly by the end of the year to max your 401k.
 In the above example, the user wants to contribute $20,000 to their 401k by the end of the year. They have already saved $5,000 and receive monthly paychecks. The program informs them that they have 5 months remaining to reach their 401k goal and recommends saving $3,000 per month to max their 401k by the end of the year.
 
 Feel free to enter your own values when prompted to get personalized savings recommendations.
+
+## Output example for a Monthly pay period
+<img width="1440" alt="output 401" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/5167643e-3af5-4484-8fea-c6f65aebb44f">
 
 ## Output example for a weekly pay period
 <img width="1439" alt="output weekly" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/f166f020-4838-4784-a179-33f73f59e661">
