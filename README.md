@@ -2,6 +2,10 @@
 
 This Python script provides a simple 401k calculator to help users determine how much they need to save to reach their retirement goal by the end of the year. It takes into account the user's pay schedule and current contributions to provide personalized savings recommendations.
 
+## Output example for a Biweekly pay period
+<img width="1440" alt="output 401" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/5167643e-3af5-4484-8fea-c6f65aebb44f">
+
+
 ## Usage
 
 To run the program, ensure that you have Python installed on your system. Save the code in a file with a `.py` extension, such as `401k_calculator.py`. Open a terminal or command prompt, navigate to the directory where the file is saved, and execute the following command:
