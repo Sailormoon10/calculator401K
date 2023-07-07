@@ -57,7 +57,7 @@ In the above example, the user wants to contribute $20,000 to their 401k by the 
 
 Feel free to enter your own values when prompted to get personalized savings recommendations.
 
-## Output example for a Monthly pay period
+## Output example for a monthly pay period
 <img width="1440" alt="output 401" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/5167643e-3af5-4484-8fea-c6f65aebb44f">
 
 ## Output example for a weekly pay period
@@ -66,7 +66,7 @@ Feel free to enter your own values when prompted to get personalized savings rec
 ## Output example for a biweekly pay period
 <img width="1440" alt="output biweekly" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/204fceba-9503-4c20-97db-c3f6d3bd746d">
 
-## Output example for a Semimonthly pay period
+## Output example for a semimonthly pay period
 <img width="1440" alt="output semimonth" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/5c32ed34-1533-43da-8c2a-1d7ef81b92d6">
 
 
