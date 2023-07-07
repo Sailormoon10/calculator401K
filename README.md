@@ -56,3 +56,14 @@ You need to save $3000.00 monthly by the end of the year to max your 401k.
 In the above example, the user wants to contribute $20,000 to their 401k by the end of the year. They have already saved $5,000 and receive monthly paychecks. The program informs them that they have 5 months remaining to reach their 401k goal and recommends saving $3,000 per month to max their 401k by the end of the year.
 
 Feel free to enter your own values when prompted to get personalized savings recommendations.
+
+## Output example for a weekly pay period
+<img width="1439" alt="output weekly" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/f166f020-4838-4784-a179-33f73f59e661">
+
+## Output example for a biweekly pay period
+<img width="1440" alt="output biweekly" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/204fceba-9503-4c20-97db-c3f6d3bd746d">
+
+## Output example for a Semimonthly pay period
+<img width="1440" alt="output semimonth" src="https://github.com/Sailormoon10/calculator401K/assets/68756541/5c32ed34-1533-43da-8c2a-1d7ef81b92d6">
+
+
